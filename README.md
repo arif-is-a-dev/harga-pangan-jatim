@@ -2,7 +2,7 @@
 
 Pipeline ETL otomatis yang mengambil **harga harian bahan pokok di 38 kabupaten/kota Jawa Timur** (plus rata-rata provinsi) dari [SISKAPERBAPO](https://siskaperbapo.jatimprov.go.id) milik Disperindag Jatim, lalu menyimpannya ke database untuk analisis tren dan deteksi lonjakan harga.
 
-> Status: 🚧 Tahap 1 (Extract & Load) selesai. Tahap 2 (transformasi dbt) dan tahap 3 (dashboard) menyusul.
+> Status: ✅ Tahap 1 (Extract & Load) dan tahap 2 (transformasi dbt) selesai. 🚧 Tahap 3 (dashboard) menyusul.
 
 ## Kenapa project ini?
 
@@ -20,7 +20,11 @@ scraper.py ──► parser.py ──► load_to_database.py
                                 └──► PostgreSQL / SQLite       (tabel raw_harga_harian)
                                           │
                                           ▼
-                                   dbt models (tahap 2)  ──►  Dashboard (tahap 3)
+                     dbt + DuckDB (data/warehouse.duckdb)
+                     staging ──► dim / fct ──► mart_mingguan, mart_lonjakan
+                                          │
+                                          ▼
+                                 Dashboard (tahap 3)
 
 Dijadwalkan setiap hari dari komputer lokal (Windows Task Scheduler).
 GitHub Actions menjalankan tes parser di setiap push.
@@ -42,7 +46,33 @@ Tabel `raw_harga_harian`. Satu baris = satu komoditas × satu wilayah × satu ta
 | harga_rp | 57166 (NULL kalau tidak dilaporkan) |
 | waktu_scrape | 2026-11-25 13:02:11 |
 
-Sekitar 39 wilayah × ±70 komoditas ≈ **2.700 baris per hari**.
+Sekitar 39 wilayah × ±70 komoditas ≈ **2.700 baris per hari**. Per 26 Nov 2026 sudah terkumpul **87 hari (1 Sep – 26 Nov 2026), ±225 ribu baris mentah**, dan ±190 ribu baris bersih setelah harga kosong disaring.
+
+## Transformasi (dbt)
+
+Model dbt ada di `dbt_harga_pangan/` dan membaca CSV mentah langsung lewat DuckDB, jadi tidak perlu server database.
+
+| Model | Isi |
+|---|---|
+| `stg_harga_harian` | Data bersih: tipe kolom benar, harga kosong/tidak masuk akal dibuang, baris dobel diambil yang terbaru |
+| `dim_wilayah` | 39 wilayah + jenisnya (Kota / Kabupaten / Provinsi) |
+| `dim_komoditas` | 67 komoditas dengan nama, kategori, dan satuan terbaru |
+| `fct_harga_harian` | Harga harian + perubahan dari hari sebelumnya, rata-rata 7 hari, dan selisih dari rata-rata provinsi |
+| `mart_harga_mingguan` | Rata-rata, min, dan max per minggu untuk grafik tren |
+| `mart_lonjakan_harga` | Hari ketika harga melonjak (lihat metode di bawah) |
+
+```bash
+cd dbt_harga_pangan
+dbt build --profiles-dir .      # membuat semua tabel + menjalankan 19 tes kualitas data
+```
+
+**Metode deteksi lonjakan.** Sebuah hari ditandai sebagai lonjakan jika:
+1. z-score harga hari itu ≥ 2, dibanding rata-rata dan standar deviasi **30 hari sebelumnya** (hari itu sendiri tidak ikut dihitung), **dan**
+2. harganya naik **minimal 10%** dari rata-rata 30 hari itu.
+
+Syarat kedua ditambahkan setelah melihat data asli. Dengan z-score saja, muncul 6.083 "lonjakan", dan hampir setengahnya kenaikannya di bawah 5%. Penyebabnya, banyak harga yang datar berminggu-minggu sehingga standar deviasinya hampir nol, dan kenaikan Rp100 pun menghasilkan z-score besar. Dengan dua syarat, hasilnya menjadi 2.076 lonjakan yang didominasi komoditas yang memang bergejolak: cabai merah besar, kubis, tomat, dan cabai keriting.
+
+**Tes kualitas data** (`dbt build`): kunci unik, relasi antar tabel, nilai yang diizinkan, tidak ada harga dobel per hari, dan peringatan untuk harga mentah yang tidak masuk akal. Tes terakhir menemukan contoh nyata: minyak goreng tercatat **Rp6** di Kab. Madiun pada 16 Nov 2026, kemungkinan salah input di sumber. Baris seperti ini disaring di staging, tetapi tetap dicatat sebagai peringatan.
 
 ## Cara menjalankan
 
@@ -73,7 +103,7 @@ export DATABASE_URL="postgresql://postgres:PASSWORD@db.xxxx.supabase.co:5432/pos
 
 ## Penjadwalan harian (Windows)
 
-`scripts/jalankan_harian.bat` menjalankan pipeline, lalu commit dan push CSV baru. Log tersimpan di `logs/pipeline.log`.
+`scripts/jalankan_harian.bat` menjalankan pipeline, memperbarui model dbt, lalu commit dan push CSV baru. Log tersimpan di `logs/pipeline.log`.
 
 Daftarkan ke Task Scheduler sekali saja (Command Prompt, dari folder project):
 
@@ -95,9 +125,9 @@ Linux/Mac bisa memakai cron: `0 13 * * * cd /path/ke/repo && python src/run_pipe
 ## Roadmap
 
 - [x] Scraper + parser + load ke database
-- [x] Jadwal harian (Task Scheduler) + CI tes di GitHub Actions
-- [ ] Backfill data ke belakang
-- [ ] dbt: model staging, rata-rata mingguan, deteksi lonjakan (> 2 standar deviasi)
+- [x] Jadwal harian (Task Scheduler) + CI di GitHub Actions (tes parser + `dbt build` di data asli)
+- [x] Backfill data ke belakang (mulai 1 Sep 2026)
+- [x] dbt: model staging, dim/fct, rata-rata mingguan, deteksi lonjakan + tes kualitas data
 - [ ] Dashboard Looker Studio / Metabase
 - [ ] Alert Telegram saat ada lonjakan
 

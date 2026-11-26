@@ -1,0 +1,10 @@
+# Koneksi database untuk dbt.
+# DuckDB = database analitik berupa satu file, tidak perlu server.
+# File hasilnya: data/warehouse.duckdb
+harga_pangan:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "../data/warehouse.duckdb"
+      threads: 4

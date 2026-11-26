@@ -1,0 +1,33 @@
+name: harga_pangan
+version: "1.0.0"
+config-version: 2
+
+profile: harga_pangan
+
+model-paths: ["models"]
+test-paths: ["tests"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+vars:
+  # Lokasi CSV mentah hasil scraper (relatif terhadap folder dbt_harga_pangan)
+  raw_csv_path: "../data/raw/*.csv"
+  # Berapa hari ke belakang yang dipakai sebagai patokan harga "normal"
+  jendela_hari_patokan: 30
+  # Minimal jumlah data di jendela patokan sebelum lonjakan boleh dihitung
+  minimal_data_patokan: 14
+  # Harga dianggap melonjak kalau z-score >= nilai ini
+  batas_z_score_lonjakan: 2.0
+  # Dan kenaikannya minimal sekian persen dari rata-rata patokan.
+  # Tanpa syarat ini, harga yang datar berminggu-minggu (standar deviasi ~0)
+  # membuat kenaikan kecil seperti 1% ikut dianggap lonjakan.
+  minimal_kenaikan_persen: 10
+
+models:
+  harga_pangan:
+    staging:
+      +materialized: view
+      +schema: staging
+    marts:
+      +materialized: table
+      +schema: marts

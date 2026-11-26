@@ -2,7 +2,7 @@
 REM ============================================================
 REM jalankan_harian.bat
 REM Dipanggil oleh Windows Task Scheduler setiap hari.
-REM 1. Ambil harga hari ini   2. Commit CSV   3. Push ke GitHub
+REM 1. Ambil harga hari ini   2. dbt build   3. Commit CSV   4. Push ke GitHub
 REM Semua output dicatat ke logs\pipeline.log
 REM ============================================================
 
@@ -20,7 +20,12 @@ if exist .venv\Scripts\activate.bat call .venv\Scripts\activate.bat
 REM Langkah 1: jalankan pipeline
 python -u src\run_pipeline.py >> logs\pipeline.log 2>&1
 
-REM Langkah 2 dan 3: commit dan push CSV baru (kalau ada)
+REM Langkah 2: perbarui tabel analisis dengan dbt (data\warehouse.duckdb)
+pushd dbt_harga_pangan
+dbt build --profiles-dir . >> ..\logs\pipeline.log 2>&1
+popd
+
+REM Langkah 3 dan 4: commit dan push CSV baru (kalau ada)
 git add data\raw\*.csv >> logs\pipeline.log 2>&1
 git diff --cached --quiet
 if errorlevel 1 (

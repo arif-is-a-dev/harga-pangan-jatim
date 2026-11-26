@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 data/*.db
 logs/
+data/warehouse.duckdb
+dbt_harga_pangan/target/
+dbt_harga_pangan/logs/
+dbt_harga_pangan/dbt_packages/

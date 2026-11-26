@@ -1,0 +1,49 @@
+version: 2
+
+models:
+  - name: stg_harga_harian
+    description: "Harga harian yang sudah dibersihkan: tipe benar, harga kosong dibuang, baris dobel diambil yang terbaru."
+    columns:
+      - name: tanggal
+        tests: [not_null]
+      - name: kode_wilayah
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_wilayah')
+              field: kode_wilayah
+      - name: id_komoditas
+        tests: [not_null]
+      - name: harga_rp
+        tests: [not_null]
+
+  - name: dim_wilayah
+    description: "Daftar wilayah (38 kab/kota + rata-rata provinsi)."
+    columns:
+      - name: kode_wilayah
+        tests: [unique, not_null]
+      - name: jenis_wilayah
+        tests:
+          - accepted_values:
+              values: ["Provinsi", "Kota", "Kabupaten"]
+
+  - name: dim_komoditas
+    description: "Daftar komoditas dengan nama, kategori, dan satuan terbaru."
+    columns:
+      - name: id_komoditas
+        tests: [unique, not_null]
+
+  - name: fct_harga_harian
+    description: "Fakta harga per tanggal x wilayah x komoditas, plus perubahan harian, rata-rata 7 hari, dan selisih dari rata-rata provinsi."
+    columns:
+      - name: id_komoditas
+        tests:
+          - relationships:
+              to: ref('dim_komoditas')
+              field: id_komoditas
+
+  - name: mart_harga_mingguan
+    description: "Rata-rata, minimum, dan maksimum harga per minggu untuk grafik tren."
+
+  - name: mart_lonjakan_harga
+    description: "Hari ketika harga naik minimal 10% dan z-score >= 2 dibanding 30 hari sebelumnya."
