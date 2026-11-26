@@ -4,7 +4,7 @@ Pipeline ETL otomatis yang mengambil **harga harian bahan pokok di 38 kabupaten/
 
 > ✅ Pipeline lengkap: scraping harian → dbt + DuckDB → dashboard Streamlit.
 >
-> 🔗 **Dashboard live:** _(isi link Streamlit setelah deploy)_
+> 🔗 **Dashboard live:** (https://harga-pangan-jatim.streamlit.app/)
 
 ![Dashboard](docs/dashboard.png)
 
