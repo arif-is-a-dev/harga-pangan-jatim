@@ -36,7 +36,7 @@ jobs:
           # Isi di Settings > Secrets and variables > Actions.
           # Kalau tidak diisi, data hanya disimpan sebagai CSV.
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
-        run: python src/run_pipeline.py
+        run: python -u src/run_pipeline.py --wilayah surabayakota
 
       - name: Commit CSV hari ini
         if: always()
