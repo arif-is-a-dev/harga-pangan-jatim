@@ -7,3 +7,4 @@ data/warehouse.duckdb
 dbt_harga_pangan/target/
 dbt_harga_pangan/logs/
 dbt_harga_pangan/dbt_packages/
+dbt_harga_pangan/.user.yml

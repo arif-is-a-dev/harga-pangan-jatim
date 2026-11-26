@@ -2,7 +2,7 @@
 REM ============================================================
 REM jalankan_harian.bat
 REM Dipanggil oleh Windows Task Scheduler setiap hari.
-REM 1. Ambil harga hari ini   2. dbt build   3. Commit CSV   4. Push ke GitHub
+REM 1. Ambil harga   2. dbt build   3. Ekspor data dashboard   4. Commit   5. Push
 REM Semua output dicatat ke logs\pipeline.log
 REM ============================================================
 
@@ -25,12 +25,17 @@ pushd dbt_harga_pangan
 dbt build --profiles-dir . >> ..\logs\pipeline.log 2>&1
 popd
 
-REM Langkah 3 dan 4: commit dan push CSV baru (kalau ada)
-git add data\raw\*.csv >> logs\pipeline.log 2>&1
+REM Langkah 3: ekspor tabel dbt ke data\marts\*.parquet untuk dashboard
+python -u scripts\export_marts.py >> logs\pipeline.log 2>&1
+
+REM Langkah 4 dan 5: commit dan push data baru (kalau ada)
+git add data\raw\*.csv data\marts\*.parquet >> logs\pipeline.log 2>&1
 git diff --cached --quiet
 if errorlevel 1 (
     git commit -m "data: harga pangan %date%" >> logs\pipeline.log 2>&1
+    REM Ambil dulu perubahan dari GitHub (misalnya file yang diedit lewat web)
+    git pull --rebase >> logs\pipeline.log 2>&1
     git push >> logs\pipeline.log 2>&1
 ) else (
-    echo Tidak ada CSV baru untuk di-commit. >> logs\pipeline.log
+    echo Tidak ada data baru untuk di-commit. >> logs\pipeline.log
 )

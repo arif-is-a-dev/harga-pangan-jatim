@@ -2,7 +2,11 @@
 
 Pipeline ETL otomatis yang mengambil **harga harian bahan pokok di 38 kabupaten/kota Jawa Timur** (plus rata-rata provinsi) dari [SISKAPERBAPO](https://siskaperbapo.jatimprov.go.id) milik Disperindag Jatim, lalu menyimpannya ke database untuk analisis tren dan deteksi lonjakan harga.
 
-> Status: ✅ Tahap 1 (Extract & Load) dan tahap 2 (transformasi dbt) selesai. 🚧 Tahap 3 (dashboard) menyusul.
+> ✅ Pipeline lengkap: scraping harian → dbt + DuckDB → dashboard Streamlit.
+>
+> 🔗 **Dashboard live:** _(isi link Streamlit setelah deploy)_
+
+![Dashboard](docs/dashboard.png)
 
 ## Kenapa project ini?
 
@@ -24,7 +28,10 @@ scraper.py ──► parser.py ──► load_to_database.py
                      staging ──► dim / fct ──► mart_mingguan, mart_lonjakan
                                           │
                                           ▼
-                                 Dashboard (tahap 3)
+                     scripts/export_marts.py ──► data/marts/*.parquet
+                                          │
+                                          ▼
+                     Dashboard Streamlit (dashboard/app.py)
 
 Dijadwalkan setiap hari dari komputer lokal (Windows Task Scheduler).
 GitHub Actions menjalankan tes parser di setiap push.
@@ -101,9 +108,24 @@ $env:DATABASE_URL="postgresql://postgres:PASSWORD@db.xxxx.supabase.co:5432/postg
 export DATABASE_URL="postgresql://postgres:PASSWORD@db.xxxx.supabase.co:5432/postgres"
 ```
 
+## Dashboard
+
+`dashboard/app.py` (Streamlit) membaca `data/marts/*.parquet` dan menampilkan:
+
+- **Ringkasan**: rata-rata harga Jatim + perubahan 7 hari, wilayah termahal/termurah, jumlah lonjakan 7 hari terakhir
+- **Tren harga** harian per wilayah untuk komoditas yang dipilih
+- **Perbandingan wilayah**: harga di 38 kab/kota hari ini, diwarnai menurut selisih dari rata-rata provinsi
+- **Lonjakan harga**: komoditas yang paling sering melonjak + tabel detail
+
+```bash
+streamlit run dashboard/app.py
+```
+
+Dashboard di-deploy ke Streamlit Community Cloud dari repo ini. Setiap kali pipeline harian push data baru, dashboard ikut diperbarui.
+
 ## Penjadwalan harian (Windows)
 
-`scripts/jalankan_harian.bat` menjalankan pipeline, memperbarui model dbt, lalu commit dan push CSV baru. Log tersimpan di `logs/pipeline.log`.
+`scripts/jalankan_harian.bat` menjalankan pipeline, memperbarui model dbt, mengekspor data dashboard, lalu commit dan push. Log tersimpan di `logs/pipeline.log`.
 
 Daftarkan ke Task Scheduler sekali saja (Command Prompt, dari folder project):
 
@@ -128,7 +150,7 @@ Linux/Mac bisa memakai cron: `0 13 * * * cd /path/ke/repo && python src/run_pipe
 - [x] Jadwal harian (Task Scheduler) + CI di GitHub Actions (tes parser + `dbt build` di data asli)
 - [x] Backfill data ke belakang (mulai 1 Sep 2026)
 - [x] dbt: model staging, dim/fct, rata-rata mingguan, deteksi lonjakan + tes kualitas data
-- [ ] Dashboard Looker Studio / Metabase
+- [x] Dashboard Streamlit
 - [ ] Alert Telegram saat ada lonjakan
 
 ## Sumber data

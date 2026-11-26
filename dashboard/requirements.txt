@@ -1,0 +1,6 @@
+# Library untuk dashboard saja (dipakai Streamlit Community Cloud).
+# Dashboard hanya membaca file Parquet, jadi tidak perlu dbt atau scraper.
+streamlit==1.67.0
+pandas==3.0.5
+plotly==7.2.0
+pyarrow==26.0.1
