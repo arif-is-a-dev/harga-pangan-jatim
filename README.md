@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌶️ Pipeline Harga Pangan Jawa Timur
 
 Pipeline ETL otomatis yang mengambil **harga harian bahan pokok di 38 kabupaten/kota Jawa Timur** (plus rata-rata provinsi) dari [SISKAPERBAPO](https://siskaperbapo.jatimprov.go.id) milik Disperindag Jatim, lalu menyimpannya ke database untuk analisis tren dan deteksi lonjakan harga.
@@ -90,3 +91,6 @@ export DATABASE_URL="postgresql://postgres:PASSWORD@db.xxxx.supabase.co:5432/pos
 ## Sumber data
 
 Sistem Informasi Ketersediaan dan Perkembangan Harga Bahan Pokok (SISKAPERBAPO), Dinas Perindustrian dan Perdagangan Provinsi Jawa Timur. Data dipakai untuk tujuan edukasi dan analisis.
+=======
+# harga-pangan-jatim
+>>>>>>> 561136819d6e7b66cfbb9ce7115acad1538401f4
