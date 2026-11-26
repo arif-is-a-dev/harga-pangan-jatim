@@ -1,0 +1,1274 @@
+tanggal,kode_wilayah,nama_wilayah,id_komoditas,nama_komoditas,kategori,satuan,harga_rp,waktu_scrape
+2026-10-13,jatim,Provinsi Jawa Timur,2,Beras Premium,BERAS,kg,15098,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,4,Beras Medium,BERAS,kg,13020,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,7,Gula Kristal Putih,GULA,kg,17405,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,10,Minyak Goreng Curah,MINYAK GORENG,kg,20493,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,22022,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,18795,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15940,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,12,Daging Sapi Paha Belakang,DAGING,kg,133628,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,13,Daging Ayam Ras,DAGING,kg,38254,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,14,Daging Ayam Kampung,DAGING,ekor,70098,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,16,Telur Ayam Ras,TELUR AYAM,kg,24269,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,17,Telur Ayam Kampung,TELUR AYAM,kg,45646,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12490,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12460,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,41799,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,40534,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7912,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,27,Bata,GARAM BERYODIUM,buah,1841,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,28,Halus,GARAM BERYODIUM,kg,9332,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,11576,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,32,Kedelai Impor,KACANG KEDELAI,kg,12690,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,33,Kedelai Lokal,KACANG KEDELAI,kg,13104,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3219,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,37,Cabe Merah Keriting,CABE,kg,52406,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,38,Cabe Merah Besar,CABE,kg,42453,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,50,Cabe Rawit Merah,CABE,kg,64326,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,39,Bawang Merah,BAWANG,kg,26917,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,49,Bawang Putih Sinco/Honan,BAWANG,kg,28786,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,40,Ikan Asin Teri,IKAN ASIN TERI,kg,78502,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,41,KACANG HIJAU,KACANG HIJAU,kg,27157,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,42,KACANG TANAH,KACANG TANAH,kg,39396,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,43,KETELA POHON,KETELA POHON,kg,5094,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,44,KOL/KUBIS,SAYUR MAYUR,kg,8891,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,45,KENTANG,SAYUR MAYUR,kg,15160,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,46,Tomat Merah,SAYUR MAYUR,kg,8124,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,47,WORTEL,SAYUR MAYUR,kg,14102,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,48,BUNCIS,SAYUR MAYUR,kg,14228,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,54,Semen Gresik,SEMEN,40 kg,56945,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,55,Semen Tiga Roda,SEMEN,40 kg,52385,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,89,Semen Padang,SEMEN,40 kg,48959,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,90,Semen Tonasa,SEMEN,40 kg,48506,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,91,Semen Bosowa,SEMEN,40 kg,48290,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,93,Semen Dynamix,SEMEN,40 kg,49717,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,58,Ikan Bandeng,IKAN SEGAR,kg,35539,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,59,Ikan Kembung,IKAN SEGAR,kg,36407,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,61,Ikan Tuna,IKAN SEGAR,kg,41186,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,60,Ikan Tongkol,IKAN SEGAR,kg,35281,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,62,Ikan Cakalang,IKAN SEGAR,kg,36142,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,100519,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,107808,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,76865,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,30713,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,48522,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,71045,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,100437,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,81,Paku Ukuran 10Cm,PAKU,kg,18537,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,76,Paku Ukuran 2 Cm,PAKU,kg,19568,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,77,Paku Ukuran 3Cm,PAKU,kg,19540,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,78,Paku Ukuran 4Cm,PAKU,kg,19124,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,79,Paku Ukuran 5Cm,PAKU,kg,18843,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,80,Paku Ukuran 7Cm,PAKU,kg,18888,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,19861,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,84,Pupuk KCL Non Subsidi,PUPUK,kg,10695,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,85,Pupuk NPK Non Subsidi,PUPUK,kg,14062,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,7799,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,87,Pupuk Urea Non Subsidi,PUPUK,kg,8752,2026-11-26 15:39:12
+2026-10-13,jatim,Provinsi Jawa Timur,88,Pupuk ZA Non Subsidi,PUPUK,kg,6711,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,2,Beras Premium,BERAS,kg,14800,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,4,Beras Medium,BERAS,kg,12400,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,7,Gula Kristal Putih,GULA,kg,17333,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,10,Minyak Goreng Curah,MINYAK GORENG,kg,17166,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,21333,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,17000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,12,Daging Sapi Paha Belakang,DAGING,kg,125000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,13,Daging Ayam Ras,DAGING,kg,39666,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,14,Daging Ayam Kampung,DAGING,ekor,75000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,16,Telur Ayam Ras,TELUR AYAM,kg,25666,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,17,Telur Ayam Kampung,TELUR AYAM,kg,55000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,13666,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,13000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,38666,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,27,Bata,GARAM BERYODIUM,buah,3000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,28,Halus,GARAM BERYODIUM,kg,10000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,11666,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,32,Kedelai Impor,KACANG KEDELAI,kg,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,33,Kedelai Lokal,KACANG KEDELAI,kg,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3166,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,37,Cabe Merah Keriting,CABE,kg,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,38,Cabe Merah Besar,CABE,kg,32333,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,50,Cabe Rawit Merah,CABE,kg,62000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,39,Bawang Merah,BAWANG,kg,28000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,49,Bawang Putih Sinco/Honan,BAWANG,kg,32000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,40,Ikan Asin Teri,IKAN ASIN TERI,kg,63333,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,41,KACANG HIJAU,KACANG HIJAU,kg,24333,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,42,KACANG TANAH,KACANG TANAH,kg,38000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,43,KETELA POHON,KETELA POHON,kg,6000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,44,KOL/KUBIS,SAYUR MAYUR,kg,7666,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,45,KENTANG,SAYUR MAYUR,kg,16000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,46,Tomat Merah,SAYUR MAYUR,kg,7333,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,47,WORTEL,SAYUR MAYUR,kg,12000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,48,BUNCIS,SAYUR MAYUR,kg,13000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,54,Semen Gresik,SEMEN,40 kg,58000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,55,Semen Tiga Roda,SEMEN,40 kg,58000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,89,Semen Padang,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,93,Semen Dynamix,SEMEN,40 kg,52666,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,58,Ikan Bandeng,IKAN SEGAR,kg,35000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,59,Ikan Kembung,IKAN SEGAR,kg,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,61,Ikan Tuna,IKAN SEGAR,kg,31000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,60,Ikan Tongkol,IKAN SEGAR,kg,33000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,62,Ikan Cakalang,IKAN SEGAR,kg,30666,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,74333,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,28000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,46000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,68000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,100000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,81,Paku Ukuran 10Cm,PAKU,kg,19000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,76,Paku Ukuran 2 Cm,PAKU,kg,21000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,77,Paku Ukuran 3Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,78,Paku Ukuran 4Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,79,Paku Ukuran 5Cm,PAKU,kg,19000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,80,Paku Ukuran 7Cm,PAKU,kg,19000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,19333,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,84,Pupuk KCL Non Subsidi,PUPUK,kg,9400,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,85,Pupuk NPK Non Subsidi,PUPUK,kg,21000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,87,Pupuk Urea Non Subsidi,PUPUK,kg,12000,2026-11-26 15:39:12
+2026-10-13,bangkalankab,Kabupaten Bangkalan,88,Pupuk ZA Non Subsidi,PUPUK,kg,3500,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,2,Beras Premium,BERAS,kg,14880,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,4,Beras Medium,BERAS,kg,12300,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,7,Gula Kristal Putih,GULA,kg,17200,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,10,Minyak Goreng Curah,MINYAK GORENG,kg,21200,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,23200,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,19800,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,12,Daging Sapi Paha Belakang,DAGING,kg,148000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,13,Daging Ayam Ras,DAGING,kg,36800,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,14,Daging Ayam Kampung,DAGING,ekor,87000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,16,Telur Ayam Ras,TELUR AYAM,kg,24300,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,17,Telur Ayam Kampung,TELUR AYAM,kg,40000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12700,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12700,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,9000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,27,Bata,GARAM BERYODIUM,buah,7000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,28,Halus,GARAM BERYODIUM,kg,9800,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,12500,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,32,Kedelai Impor,KACANG KEDELAI,kg,13500,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,33,Kedelai Lokal,KACANG KEDELAI,kg,12500,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3375,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,37,Cabe Merah Keriting,CABE,kg,40000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,38,Cabe Merah Besar,CABE,kg,43600,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,50,Cabe Rawit Merah,CABE,kg,59400,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,39,Bawang Merah,BAWANG,kg,26200,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,49,Bawang Putih Sinco/Honan,BAWANG,kg,28800,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,40,Ikan Asin Teri,IKAN ASIN TERI,kg,76000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,41,KACANG HIJAU,KACANG HIJAU,kg,29000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,42,KACANG TANAH,KACANG TANAH,kg,43200,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,43,KETELA POHON,KETELA POHON,kg,4000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,44,KOL/KUBIS,SAYUR MAYUR,kg,7800,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,45,KENTANG,SAYUR MAYUR,kg,17200,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,46,Tomat Merah,SAYUR MAYUR,kg,8800,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,47,WORTEL,SAYUR MAYUR,kg,14400,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,48,BUNCIS,SAYUR MAYUR,kg,13000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,54,Semen Gresik,SEMEN,40 kg,59800,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,55,Semen Tiga Roda,SEMEN,40 kg,58600,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,89,Semen Padang,SEMEN,40 kg,58500,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,91,Semen Bosowa,SEMEN,40 kg,59000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,58,Ikan Bandeng,IKAN SEGAR,kg,33400,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,59,Ikan Kembung,IKAN SEGAR,kg,42000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,61,Ikan Tuna,IKAN SEGAR,kg,54000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,60,Ikan Tongkol,IKAN SEGAR,kg,33400,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,62,Ikan Cakalang,IKAN SEGAR,kg,40000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,78750,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,28000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,45800,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,74600,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,105000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,81,Paku Ukuran 10Cm,PAKU,kg,19600,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,76,Paku Ukuran 2 Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,77,Paku Ukuran 3Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,78,Paku Ukuran 4Cm,PAKU,kg,19200,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,79,Paku Ukuran 5Cm,PAKU,kg,19600,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,80,Paku Ukuran 7Cm,PAKU,kg,19600,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,20000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,84,Pupuk KCL Non Subsidi,PUPUK,kg,8500,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,85,Pupuk NPK Non Subsidi,PUPUK,kg,11000,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,87,Pupuk Urea Non Subsidi,PUPUK,kg,6080,2026-11-26 15:39:12
+2026-10-13,banyuwangikab,Kabupaten Banyuwangi,88,Pupuk ZA Non Subsidi,PUPUK,kg,4500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,2,Beras Premium,BERAS,kg,14900,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,4,Beras Medium,BERAS,kg,12500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,7,Gula Kristal Putih,GULA,kg,17000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,10,Minyak Goreng Curah,MINYAK GORENG,kg,16000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,22000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,18500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,12,Daging Sapi Paha Belakang,DAGING,kg,128500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,13,Daging Ayam Ras,DAGING,kg,37500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,14,Daging Ayam Kampung,DAGING,ekor,77000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,16,Telur Ayam Ras,TELUR AYAM,kg,24000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,17,Telur Ayam Kampung,TELUR AYAM,kg,45000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,13000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,11000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,36000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,32000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,27,Bata,GARAM BERYODIUM,buah,1000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,28,Halus,GARAM BERYODIUM,kg,8500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,11000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,32,Kedelai Impor,KACANG KEDELAI,kg,13000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,33,Kedelai Lokal,KACANG KEDELAI,kg,14000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,37,Cabe Merah Keriting,CABE,kg,,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,38,Cabe Merah Besar,CABE,kg,43500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,50,Cabe Rawit Merah,CABE,kg,57500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,39,Bawang Merah,BAWANG,kg,24000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,49,Bawang Putih Sinco/Honan,BAWANG,kg,29000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,40,Ikan Asin Teri,IKAN ASIN TERI,kg,50000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,41,KACANG HIJAU,KACANG HIJAU,kg,18000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,42,KACANG TANAH,KACANG TANAH,kg,30000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,43,KETELA POHON,KETELA POHON,kg,3500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,44,KOL/KUBIS,SAYUR MAYUR,kg,7000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,45,KENTANG,SAYUR MAYUR,kg,14000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,46,Tomat Merah,SAYUR MAYUR,kg,5500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,47,WORTEL,SAYUR MAYUR,kg,13000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,48,BUNCIS,SAYUR MAYUR,kg,10500,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,54,Semen Gresik,SEMEN,40 kg,50000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,55,Semen Tiga Roda,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,89,Semen Padang,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,58,Ikan Bandeng,IKAN SEGAR,kg,,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,59,Ikan Kembung,IKAN SEGAR,kg,30000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,61,Ikan Tuna,IKAN SEGAR,kg,39000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,60,Ikan Tongkol,IKAN SEGAR,kg,20000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,62,Ikan Cakalang,IKAN SEGAR,kg,30000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,80000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,25000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,39000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,62000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,90000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,81,Paku Ukuran 10Cm,PAKU,kg,12000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,76,Paku Ukuran 2 Cm,PAKU,kg,14000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,77,Paku Ukuran 3Cm,PAKU,kg,14000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,78,Paku Ukuran 4Cm,PAKU,kg,14000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,79,Paku Ukuran 5Cm,PAKU,kg,14000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,80,Paku Ukuran 7Cm,PAKU,kg,14000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,20000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,84,Pupuk KCL Non Subsidi,PUPUK,kg,15000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,85,Pupuk NPK Non Subsidi,PUPUK,kg,11000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,6000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,87,Pupuk Urea Non Subsidi,PUPUK,kg,8000,2026-11-26 15:39:12
+2026-10-13,blitarkab,Kabupaten Blitar,88,Pupuk ZA Non Subsidi,PUPUK,kg,5000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,2,Beras Premium,BERAS,kg,14900,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,4,Beras Medium,BERAS,kg,13500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,7,Gula Kristal Putih,GULA,kg,18000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,10,Minyak Goreng Curah,MINYAK GORENG,kg,22000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,23000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,21500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,16600,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,12,Daging Sapi Paha Belakang,DAGING,kg,135000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,13,Daging Ayam Ras,DAGING,kg,37500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,14,Daging Ayam Kampung,DAGING,ekor,80000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,16,Telur Ayam Ras,TELUR AYAM,kg,25000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,17,Telur Ayam Kampung,TELUR AYAM,kg,50000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12750,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12750,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,48000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,44000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,27,Bata,GARAM BERYODIUM,buah,2250,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,28,Halus,GARAM BERYODIUM,kg,8000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,10000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,32,Kedelai Impor,KACANG KEDELAI,kg,13500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,33,Kedelai Lokal,KACANG KEDELAI,kg,13500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,37,Cabe Merah Keriting,CABE,kg,60000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,38,Cabe Merah Besar,CABE,kg,45000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,50,Cabe Rawit Merah,CABE,kg,67500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,39,Bawang Merah,BAWANG,kg,26500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,49,Bawang Putih Sinco/Honan,BAWANG,kg,28000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,40,Ikan Asin Teri,IKAN ASIN TERI,kg,100000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,41,KACANG HIJAU,KACANG HIJAU,kg,28000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,42,KACANG TANAH,KACANG TANAH,kg,44000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,43,KETELA POHON,KETELA POHON,kg,5500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,44,KOL/KUBIS,SAYUR MAYUR,kg,10000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,45,KENTANG,SAYUR MAYUR,kg,16500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,46,Tomat Merah,SAYUR MAYUR,kg,7500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,47,WORTEL,SAYUR MAYUR,kg,15000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,48,BUNCIS,SAYUR MAYUR,kg,16000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,54,Semen Gresik,SEMEN,40 kg,55500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,55,Semen Tiga Roda,SEMEN,40 kg,59000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,89,Semen Padang,SEMEN,40 kg,52000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,90,Semen Tonasa,SEMEN,40 kg,51000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,91,Semen Bosowa,SEMEN,40 kg,51000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,93,Semen Dynamix,SEMEN,40 kg,55000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,58,Ikan Bandeng,IKAN SEGAR,kg,37500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,59,Ikan Kembung,IKAN SEGAR,kg,32500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,61,Ikan Tuna,IKAN SEGAR,kg,47500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,60,Ikan Tongkol,IKAN SEGAR,kg,32500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,62,Ikan Cakalang,IKAN SEGAR,kg,35000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,98000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,97000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,78000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,25000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,40000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,71000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,95000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,81,Paku Ukuran 10Cm,PAKU,kg,17500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,76,Paku Ukuran 2 Cm,PAKU,kg,19500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,77,Paku Ukuran 3Cm,PAKU,kg,19000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,78,Paku Ukuran 4Cm,PAKU,kg,18500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,79,Paku Ukuran 5Cm,PAKU,kg,18000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,80,Paku Ukuran 7Cm,PAKU,kg,17500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,19500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,84,Pupuk KCL Non Subsidi,PUPUK,kg,9500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,85,Pupuk NPK Non Subsidi,PUPUK,kg,12000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,8500,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,87,Pupuk Urea Non Subsidi,PUPUK,kg,8000,2026-11-26 15:39:12
+2026-10-13,bojonegorokab,Kabupaten Bojonegoro,88,Pupuk ZA Non Subsidi,PUPUK,kg,6500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,2,Beras Premium,BERAS,kg,14700,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,4,Beras Medium,BERAS,kg,13475,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,7,Gula Kristal Putih,GULA,kg,17125,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,10,Minyak Goreng Curah,MINYAK GORENG,kg,20375,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,21500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,12,Daging Sapi Paha Belakang,DAGING,kg,130000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,13,Daging Ayam Ras,DAGING,kg,37750,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,14,Daging Ayam Kampung,DAGING,ekor,60000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,16,Telur Ayam Ras,TELUR AYAM,kg,24250,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,17,Telur Ayam Kampung,TELUR AYAM,kg,39500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,9500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,9750,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,38500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,6625,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,27,Bata,GARAM BERYODIUM,buah,,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,28,Halus,GARAM BERYODIUM,kg,9500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,8250,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,32,Kedelai Impor,KACANG KEDELAI,kg,9725,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,33,Kedelai Lokal,KACANG KEDELAI,kg,,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,2975,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,37,Cabe Merah Keriting,CABE,kg,,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,38,Cabe Merah Besar,CABE,kg,44000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,50,Cabe Rawit Merah,CABE,kg,58000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,39,Bawang Merah,BAWANG,kg,25250,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,49,Bawang Putih Sinco/Honan,BAWANG,kg,26750,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,40,Ikan Asin Teri,IKAN ASIN TERI,kg,80000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,41,KACANG HIJAU,KACANG HIJAU,kg,33350,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,42,KACANG TANAH,KACANG TANAH,kg,43750,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,43,KETELA POHON,KETELA POHON,kg,4000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,44,KOL/KUBIS,SAYUR MAYUR,kg,7750,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,45,KENTANG,SAYUR MAYUR,kg,15000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,46,Tomat Merah,SAYUR MAYUR,kg,7000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,47,WORTEL,SAYUR MAYUR,kg,15250,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,48,BUNCIS,SAYUR MAYUR,kg,13250,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,54,Semen Gresik,SEMEN,40 kg,52750,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,55,Semen Tiga Roda,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,89,Semen Padang,SEMEN,40 kg,43000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,58,Ikan Bandeng,IKAN SEGAR,kg,35000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,59,Ikan Kembung,IKAN SEGAR,kg,37500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,61,Ikan Tuna,IKAN SEGAR,kg,,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,60,Ikan Tongkol,IKAN SEGAR,kg,30000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,62,Ikan Cakalang,IKAN SEGAR,kg,27500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,131666,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,220250,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,69375,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,31500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,51500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,79500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,112000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,81,Paku Ukuran 10Cm,PAKU,kg,17000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,76,Paku Ukuran 2 Cm,PAKU,kg,20250,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,77,Paku Ukuran 3Cm,PAKU,kg,20250,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,78,Paku Ukuran 4Cm,PAKU,kg,18750,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,79,Paku Ukuran 5Cm,PAKU,kg,18250,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,80,Paku Ukuran 7Cm,PAKU,kg,18250,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,19000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,84,Pupuk KCL Non Subsidi,PUPUK,kg,7375,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,85,Pupuk NPK Non Subsidi,PUPUK,kg,11500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,7000,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,87,Pupuk Urea Non Subsidi,PUPUK,kg,6500,2026-11-26 15:39:12
+2026-10-13,bondowosokab,Kabupaten Bondowoso,88,Pupuk ZA Non Subsidi,PUPUK,kg,5500,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,2,Beras Premium,BERAS,kg,15166,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,4,Beras Medium,BERAS,kg,12600,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,7,Gula Kristal Putih,GULA,kg,17500,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,10,Minyak Goreng Curah,MINYAK GORENG,kg,18000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,22833,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,18000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,12,Daging Sapi Paha Belakang,DAGING,kg,125000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,13,Daging Ayam Ras,DAGING,kg,40333,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,14,Daging Ayam Kampung,DAGING,ekor,68333,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,16,Telur Ayam Ras,TELUR AYAM,kg,25000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,17,Telur Ayam Kampung,TELUR AYAM,kg,37500,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12833,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,11666,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,35500,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,35000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,10666,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,27,Bata,GARAM BERYODIUM,buah,3000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,28,Halus,GARAM BERYODIUM,kg,7833,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,11666,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,32,Kedelai Impor,KACANG KEDELAI,kg,13000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,33,Kedelai Lokal,KACANG KEDELAI,kg,11500,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3333,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,37,Cabe Merah Keriting,CABE,kg,60000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,38,Cabe Merah Besar,CABE,kg,41666,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,50,Cabe Rawit Merah,CABE,kg,65000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,39,Bawang Merah,BAWANG,kg,29333,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,49,Bawang Putih Sinco/Honan,BAWANG,kg,30666,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,40,Ikan Asin Teri,IKAN ASIN TERI,kg,78333,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,41,KACANG HIJAU,KACANG HIJAU,kg,28666,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,42,KACANG TANAH,KACANG TANAH,kg,38333,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,43,KETELA POHON,KETELA POHON,kg,7000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,44,KOL/KUBIS,SAYUR MAYUR,kg,11333,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,45,KENTANG,SAYUR MAYUR,kg,17000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,46,Tomat Merah,SAYUR MAYUR,kg,11333,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,47,WORTEL,SAYUR MAYUR,kg,16500,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,48,BUNCIS,SAYUR MAYUR,kg,17833,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,54,Semen Gresik,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,55,Semen Tiga Roda,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,89,Semen Padang,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,58,Ikan Bandeng,IKAN SEGAR,kg,37666,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,59,Ikan Kembung,IKAN SEGAR,kg,37500,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,61,Ikan Tuna,IKAN SEGAR,kg,45000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,60,Ikan Tongkol,IKAN SEGAR,kg,39000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,62,Ikan Cakalang,IKAN SEGAR,kg,38000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,81,Paku Ukuran 10Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,76,Paku Ukuran 2 Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,77,Paku Ukuran 3Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,78,Paku Ukuran 4Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,79,Paku Ukuran 5Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,80,Paku Ukuran 7Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,20000,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,84,Pupuk KCL Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,85,Pupuk NPK Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,87,Pupuk Urea Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,gresikkab,Kabupaten Gresik,88,Pupuk ZA Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,2,Beras Premium,BERAS,kg,14880,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,4,Beras Medium,BERAS,kg,12060,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,7,Gula Kristal Putih,GULA,kg,17800,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,10,Minyak Goreng Curah,MINYAK GORENG,kg,21300,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,22500,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,20750,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,12,Daging Sapi Paha Belakang,DAGING,kg,137000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,13,Daging Ayam Ras,DAGING,kg,36000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,14,Daging Ayam Kampung,DAGING,ekor,58333,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,16,Telur Ayam Ras,TELUR AYAM,kg,23600,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,17,Telur Ayam Kampung,TELUR AYAM,kg,42600,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12125,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,40500,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,40000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7750,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,27,Bata,GARAM BERYODIUM,buah,1000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,28,Halus,GARAM BERYODIUM,kg,9000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,12250,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,32,Kedelai Impor,KACANG KEDELAI,kg,12200,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,33,Kedelai Lokal,KACANG KEDELAI,kg,,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,2975,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,37,Cabe Merah Keriting,CABE,kg,44000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,38,Cabe Merah Besar,CABE,kg,40400,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,50,Cabe Rawit Merah,CABE,kg,63400,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,39,Bawang Merah,BAWANG,kg,27000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,49,Bawang Putih Sinco/Honan,BAWANG,kg,27600,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,40,Ikan Asin Teri,IKAN ASIN TERI,kg,103750,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,41,KACANG HIJAU,KACANG HIJAU,kg,28300,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,42,KACANG TANAH,KACANG TANAH,kg,43800,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,43,KETELA POHON,KETELA POHON,kg,3375,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,44,KOL/KUBIS,SAYUR MAYUR,kg,8400,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,45,KENTANG,SAYUR MAYUR,kg,14200,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,46,Tomat Merah,SAYUR MAYUR,kg,7600,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,47,WORTEL,SAYUR MAYUR,kg,14200,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,48,BUNCIS,SAYUR MAYUR,kg,17200,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,54,Semen Gresik,SEMEN,40 kg,56333,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,55,Semen Tiga Roda,SEMEN,40 kg,47666,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,89,Semen Padang,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,58,Ikan Bandeng,IKAN SEGAR,kg,32000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,59,Ikan Kembung,IKAN SEGAR,kg,34800,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,61,Ikan Tuna,IKAN SEGAR,kg,36000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,60,Ikan Tongkol,IKAN SEGAR,kg,34000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,62,Ikan Cakalang,IKAN SEGAR,kg,33333,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,30500,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,55000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,74000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,103000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,81,Paku Ukuran 10Cm,PAKU,kg,17250,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,76,Paku Ukuran 2 Cm,PAKU,kg,18500,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,77,Paku Ukuran 3Cm,PAKU,kg,17500,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,78,Paku Ukuran 4Cm,PAKU,kg,17750,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,79,Paku Ukuran 5Cm,PAKU,kg,18250,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,80,Paku Ukuran 7Cm,PAKU,kg,18500,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,20250,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,84,Pupuk KCL Non Subsidi,PUPUK,kg,14000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,85,Pupuk NPK Non Subsidi,PUPUK,kg,21000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,11400,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,87,Pupuk Urea Non Subsidi,PUPUK,kg,9000,2026-11-26 15:39:12
+2026-10-13,jemberkab,Kabupaten Jember,88,Pupuk ZA Non Subsidi,PUPUK,kg,11500,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,2,Beras Premium,BERAS,kg,15600,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,4,Beras Medium,BERAS,kg,14000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,7,Gula Kristal Putih,GULA,kg,17500,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,10,Minyak Goreng Curah,MINYAK GORENG,kg,21000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,23000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,20333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,16400,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,12,Daging Sapi Paha Belakang,DAGING,kg,136666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,13,Daging Ayam Ras,DAGING,kg,36666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,14,Daging Ayam Kampung,DAGING,ekor,80000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,16,Telur Ayam Ras,TELUR AYAM,kg,23166,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,17,Telur Ayam Kampung,TELUR AYAM,kg,47166,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,44666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,44500,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,6833,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,27,Bata,GARAM BERYODIUM,buah,216,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,28,Halus,GARAM BERYODIUM,kg,7666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,11000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,32,Kedelai Impor,KACANG KEDELAI,kg,11666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,33,Kedelai Lokal,KACANG KEDELAI,kg,,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,2933,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,37,Cabe Merah Keriting,CABE,kg,51000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,38,Cabe Merah Besar,CABE,kg,43666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,50,Cabe Rawit Merah,CABE,kg,60000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,39,Bawang Merah,BAWANG,kg,24333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,49,Bawang Putih Sinco/Honan,BAWANG,kg,25333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,40,Ikan Asin Teri,IKAN ASIN TERI,kg,86666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,41,KACANG HIJAU,KACANG HIJAU,kg,27333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,42,KACANG TANAH,KACANG TANAH,kg,43333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,43,KETELA POHON,KETELA POHON,kg,4666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,44,KOL/KUBIS,SAYUR MAYUR,kg,9333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,45,KENTANG,SAYUR MAYUR,kg,13000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,46,Tomat Merah,SAYUR MAYUR,kg,8333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,47,WORTEL,SAYUR MAYUR,kg,14666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,48,BUNCIS,SAYUR MAYUR,kg,14333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,54,Semen Gresik,SEMEN,40 kg,57000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,55,Semen Tiga Roda,SEMEN,40 kg,44333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,89,Semen Padang,SEMEN,40 kg,45000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,58,Ikan Bandeng,IKAN SEGAR,kg,31333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,59,Ikan Kembung,IKAN SEGAR,kg,35333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,61,Ikan Tuna,IKAN SEGAR,kg,34666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,60,Ikan Tongkol,IKAN SEGAR,kg,35000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,62,Ikan Cakalang,IKAN SEGAR,kg,31000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,123333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,83333,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,61000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,36000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,62666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,33666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,69666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,81,Paku Ukuran 10Cm,PAKU,kg,22000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,76,Paku Ukuran 2 Cm,PAKU,kg,22000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,77,Paku Ukuran 3Cm,PAKU,kg,22000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,78,Paku Ukuran 4Cm,PAKU,kg,22666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,79,Paku Ukuran 5Cm,PAKU,kg,19666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,80,Paku Ukuran 7Cm,PAKU,kg,19666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,18000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,84,Pupuk KCL Non Subsidi,PUPUK,kg,12000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,85,Pupuk NPK Non Subsidi,PUPUK,kg,13000,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,7666,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,87,Pupuk Urea Non Subsidi,PUPUK,kg,8300,2026-11-26 15:39:12
+2026-10-13,jombangkab,Kabupaten Jombang,88,Pupuk ZA Non Subsidi,PUPUK,kg,6966,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,2,Beras Premium,BERAS,kg,14833,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,4,Beras Medium,BERAS,kg,13333,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,7,Gula Kristal Putih,GULA,kg,17500,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,10,Minyak Goreng Curah,MINYAK GORENG,kg,20666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,22166,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,17000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,12,Daging Sapi Paha Belakang,DAGING,kg,120000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,13,Daging Ayam Ras,DAGING,kg,36666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,14,Daging Ayam Kampung,DAGING,ekor,72666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,16,Telur Ayam Ras,TELUR AYAM,kg,24333,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,17,Telur Ayam Kampung,TELUR AYAM,kg,46666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12333,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12333,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,35000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,35000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7166,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,27,Bata,GARAM BERYODIUM,buah,500,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,28,Halus,GARAM BERYODIUM,kg,9666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,10666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,32,Kedelai Impor,KACANG KEDELAI,kg,12000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,33,Kedelai Lokal,KACANG KEDELAI,kg,13000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3500,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,37,Cabe Merah Keriting,CABE,kg,61000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,38,Cabe Merah Besar,CABE,kg,47333,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,50,Cabe Rawit Merah,CABE,kg,65666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,39,Bawang Merah,BAWANG,kg,25333,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,49,Bawang Putih Sinco/Honan,BAWANG,kg,27666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,40,Ikan Asin Teri,IKAN ASIN TERI,kg,70666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,41,KACANG HIJAU,KACANG HIJAU,kg,26333,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,42,KACANG TANAH,KACANG TANAH,kg,43000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,43,KETELA POHON,KETELA POHON,kg,4666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,44,KOL/KUBIS,SAYUR MAYUR,kg,9666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,45,KENTANG,SAYUR MAYUR,kg,15666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,46,Tomat Merah,SAYUR MAYUR,kg,9333,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,47,WORTEL,SAYUR MAYUR,kg,16000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,48,BUNCIS,SAYUR MAYUR,kg,16000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,54,Semen Gresik,SEMEN,40 kg,60000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,55,Semen Tiga Roda,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,89,Semen Padang,SEMEN,40 kg,46500,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,58,Ikan Bandeng,IKAN SEGAR,kg,32666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,59,Ikan Kembung,IKAN SEGAR,kg,43333,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,61,Ikan Tuna,IKAN SEGAR,kg,47000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,60,Ikan Tongkol,IKAN SEGAR,kg,39000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,62,Ikan Cakalang,IKAN SEGAR,kg,41666,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,85000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,30000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,50000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,76750,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,110000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,81,Paku Ukuran 10Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,76,Paku Ukuran 2 Cm,PAKU,kg,21000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,77,Paku Ukuran 3Cm,PAKU,kg,21000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,78,Paku Ukuran 4Cm,PAKU,kg,21004,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,79,Paku Ukuran 5Cm,PAKU,kg,20500,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,80,Paku Ukuran 7Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,20000,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,84,Pupuk KCL Non Subsidi,PUPUK,kg,6700,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,85,Pupuk NPK Non Subsidi,PUPUK,kg,14100,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,3300,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,87,Pupuk Urea Non Subsidi,PUPUK,kg,6800,2026-11-26 15:39:12
+2026-10-13,kedirikab,Kabupaten Kediri,88,Pupuk ZA Non Subsidi,PUPUK,kg,4840,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,2,Beras Premium,BERAS,kg,14900,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,4,Beras Medium,BERAS,kg,13000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,7,Gula Kristal Putih,GULA,kg,17875,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,10,Minyak Goreng Curah,MINYAK GORENG,kg,21000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,21000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,19000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,16600,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,12,Daging Sapi Paha Belakang,DAGING,kg,130000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,13,Daging Ayam Ras,DAGING,kg,39000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,14,Daging Ayam Kampung,DAGING,ekor,78750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,16,Telur Ayam Ras,TELUR AYAM,kg,24750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,17,Telur Ayam Kampung,TELUR AYAM,kg,44000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,14250,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,13125,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,46500,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,46750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7625,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,27,Bata,GARAM BERYODIUM,buah,2250,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,28,Halus,GARAM BERYODIUM,kg,10000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,10000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,32,Kedelai Impor,KACANG KEDELAI,kg,9750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,33,Kedelai Lokal,KACANG KEDELAI,kg,10500,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,37,Cabe Merah Keriting,CABE,kg,49500,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,38,Cabe Merah Besar,CABE,kg,44750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,50,Cabe Rawit Merah,CABE,kg,65000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,39,Bawang Merah,BAWANG,kg,25750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,49,Bawang Putih Sinco/Honan,BAWANG,kg,29500,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,40,Ikan Asin Teri,IKAN ASIN TERI,kg,70000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,41,KACANG HIJAU,KACANG HIJAU,kg,25250,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,42,KACANG TANAH,KACANG TANAH,kg,34250,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,43,KETELA POHON,KETELA POHON,kg,6000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,44,KOL/KUBIS,SAYUR MAYUR,kg,9000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,45,KENTANG,SAYUR MAYUR,kg,15750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,46,Tomat Merah,SAYUR MAYUR,kg,7750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,47,WORTEL,SAYUR MAYUR,kg,15750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,48,BUNCIS,SAYUR MAYUR,kg,18000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,54,Semen Gresik,SEMEN,40 kg,56000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,55,Semen Tiga Roda,SEMEN,40 kg,56000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,89,Semen Padang,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,58,Ikan Bandeng,IKAN SEGAR,kg,26750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,59,Ikan Kembung,IKAN SEGAR,kg,32500,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,61,Ikan Tuna,IKAN SEGAR,kg,39000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,60,Ikan Tongkol,IKAN SEGAR,kg,27750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,62,Ikan Cakalang,IKAN SEGAR,kg,40000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,106000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,98250,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,67000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,31500,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,57750,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,82500,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,122000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,81,Paku Ukuran 10Cm,PAKU,kg,15000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,76,Paku Ukuran 2 Cm,PAKU,kg,15000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,77,Paku Ukuran 3Cm,PAKU,kg,15000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,78,Paku Ukuran 4Cm,PAKU,kg,15000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,79,Paku Ukuran 5Cm,PAKU,kg,15000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,80,Paku Ukuran 7Cm,PAKU,kg,15000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,20000,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,84,Pupuk KCL Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,85,Pupuk NPK Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,87,Pupuk Urea Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,lamongankab,Kabupaten Lamongan,88,Pupuk ZA Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,2,Beras Premium,BERAS,kg,16000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,4,Beras Medium,BERAS,kg,11700,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,7,Gula Kristal Putih,GULA,kg,17000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,10,Minyak Goreng Curah,MINYAK GORENG,kg,19000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,18000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,16166,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,16333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,12,Daging Sapi Paha Belakang,DAGING,kg,141666,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,13,Daging Ayam Ras,DAGING,kg,37333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,14,Daging Ayam Kampung,DAGING,ekor,71666,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,16,Telur Ayam Ras,TELUR AYAM,kg,24333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,17,Telur Ayam Kampung,TELUR AYAM,kg,30666,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,13250,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,14000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,32000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,36000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,9333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,27,Bata,GARAM BERYODIUM,buah,733,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,28,Halus,GARAM BERYODIUM,kg,7666,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,10666,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,32,Kedelai Impor,KACANG KEDELAI,kg,11000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,33,Kedelai Lokal,KACANG KEDELAI,kg,10000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3500,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,37,Cabe Merah Keriting,CABE,kg,30333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,38,Cabe Merah Besar,CABE,kg,24666,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,50,Cabe Rawit Merah,CABE,kg,75000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,39,Bawang Merah,BAWANG,kg,23333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,49,Bawang Putih Sinco/Honan,BAWANG,kg,25000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,40,Ikan Asin Teri,IKAN ASIN TERI,kg,33333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,41,KACANG HIJAU,KACANG HIJAU,kg,22000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,42,KACANG TANAH,KACANG TANAH,kg,32000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,43,KETELA POHON,KETELA POHON,kg,5000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,44,KOL/KUBIS,SAYUR MAYUR,kg,8000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,45,KENTANG,SAYUR MAYUR,kg,12000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,46,Tomat Merah,SAYUR MAYUR,kg,5000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,47,WORTEL,SAYUR MAYUR,kg,7333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,48,BUNCIS,SAYUR MAYUR,kg,9000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,54,Semen Gresik,SEMEN,40 kg,50000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,55,Semen Tiga Roda,SEMEN,40 kg,40000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,89,Semen Padang,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,91,Semen Bosowa,SEMEN,40 kg,45000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,58,Ikan Bandeng,IKAN SEGAR,kg,34000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,59,Ikan Kembung,IKAN SEGAR,kg,31333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,61,Ikan Tuna,IKAN SEGAR,kg,35500,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,60,Ikan Tongkol,IKAN SEGAR,kg,31666,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,62,Ikan Cakalang,IKAN SEGAR,kg,31333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,60000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,51000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,81,Paku Ukuran 10Cm,PAKU,kg,11000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,76,Paku Ukuran 2 Cm,PAKU,kg,11000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,77,Paku Ukuran 3Cm,PAKU,kg,11000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,78,Paku Ukuran 4Cm,PAKU,kg,13000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,79,Paku Ukuran 5Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,80,Paku Ukuran 7Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,20333,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,84,Pupuk KCL Non Subsidi,PUPUK,kg,6000,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,85,Pupuk NPK Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,87,Pupuk Urea Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,lumajangkab,Kabupaten Lumajang,88,Pupuk ZA Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,2,Beras Premium,BERAS,kg,14975,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,4,Beras Medium,BERAS,kg,13125,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,7,Gula Kristal Putih,GULA,kg,16625,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,10,Minyak Goreng Curah,MINYAK GORENG,kg,20550,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,22000,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,12,Daging Sapi Paha Belakang,DAGING,kg,136250,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,13,Daging Ayam Ras,DAGING,kg,37325,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,14,Daging Ayam Kampung,DAGING,ekor,56250,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,16,Telur Ayam Ras,TELUR AYAM,kg,24125,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,17,Telur Ayam Kampung,TELUR AYAM,kg,41250,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12125,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12125,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,48500,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,44000,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7125,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,27,Bata,GARAM BERYODIUM,buah,1000,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,28,Halus,GARAM BERYODIUM,kg,11250,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,12000,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,32,Kedelai Impor,KACANG KEDELAI,kg,10950,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,33,Kedelai Lokal,KACANG KEDELAI,kg,12750,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3500,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,37,Cabe Merah Keriting,CABE,kg,61000,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,38,Cabe Merah Besar,CABE,kg,48250,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,50,Cabe Rawit Merah,CABE,kg,64500,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,39,Bawang Merah,BAWANG,kg,25900,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,49,Bawang Putih Sinco/Honan,BAWANG,kg,26325,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,40,Ikan Asin Teri,IKAN ASIN TERI,kg,80000,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,41,KACANG HIJAU,KACANG HIJAU,kg,27125,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,42,KACANG TANAH,KACANG TANAH,kg,36750,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,43,KETELA POHON,KETELA POHON,kg,4375,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,44,KOL/KUBIS,SAYUR MAYUR,kg,8250,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,45,KENTANG,SAYUR MAYUR,kg,13500,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,46,Tomat Merah,SAYUR MAYUR,kg,7500,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,47,WORTEL,SAYUR MAYUR,kg,13500,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,48,BUNCIS,SAYUR MAYUR,kg,10750,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,54,Semen Gresik,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,55,Semen Tiga Roda,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,89,Semen Padang,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,58,Ikan Bandeng,IKAN SEGAR,kg,30500,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,59,Ikan Kembung,IKAN SEGAR,kg,31750,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,61,Ikan Tuna,IKAN SEGAR,kg,36000,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,60,Ikan Tongkol,IKAN SEGAR,kg,32000,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,62,Ikan Cakalang,IKAN SEGAR,kg,33750,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,81,Paku Ukuran 10Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,76,Paku Ukuran 2 Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,77,Paku Ukuran 3Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,78,Paku Ukuran 4Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,79,Paku Ukuran 5Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,80,Paku Ukuran 7Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,19750,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,84,Pupuk KCL Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,85,Pupuk NPK Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,87,Pupuk Urea Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,madiunkab,Kabupaten Madiun,88,Pupuk ZA Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,2,Beras Premium,BERAS,kg,14900,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,4,Beras Medium,BERAS,kg,13400,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,7,Gula Kristal Putih,GULA,kg,17100,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,10,Minyak Goreng Curah,MINYAK GORENG,kg,20000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,22666,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,19000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,12,Daging Sapi Paha Belakang,DAGING,kg,129000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,13,Daging Ayam Ras,DAGING,kg,36833,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,14,Daging Ayam Kampung,DAGING,ekor,66666,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,16,Telur Ayam Ras,TELUR AYAM,kg,23000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,17,Telur Ayam Kampung,TELUR AYAM,kg,30000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,42000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,41000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,6500,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,27,Bata,GARAM BERYODIUM,buah,2000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,28,Halus,GARAM BERYODIUM,kg,8000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,10000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,32,Kedelai Impor,KACANG KEDELAI,kg,11833,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,33,Kedelai Lokal,KACANG KEDELAI,kg,15500,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,37,Cabe Merah Keriting,CABE,kg,56000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,38,Cabe Merah Besar,CABE,kg,48000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,50,Cabe Rawit Merah,CABE,kg,69333,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,39,Bawang Merah,BAWANG,kg,26666,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,49,Bawang Putih Sinco/Honan,BAWANG,kg,29333,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,40,Ikan Asin Teri,IKAN ASIN TERI,kg,80000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,41,KACANG HIJAU,KACANG HIJAU,kg,25000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,42,KACANG TANAH,KACANG TANAH,kg,37333,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,43,KETELA POHON,KETELA POHON,kg,4666,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,44,KOL/KUBIS,SAYUR MAYUR,kg,9666,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,45,KENTANG,SAYUR MAYUR,kg,15333,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,46,Tomat Merah,SAYUR MAYUR,kg,8000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,47,WORTEL,SAYUR MAYUR,kg,11333,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,48,BUNCIS,SAYUR MAYUR,kg,14333,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,54,Semen Gresik,SEMEN,40 kg,57000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,55,Semen Tiga Roda,SEMEN,40 kg,57000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,89,Semen Padang,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,58,Ikan Bandeng,IKAN SEGAR,kg,33666,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,59,Ikan Kembung,IKAN SEGAR,kg,38000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,61,Ikan Tuna,IKAN SEGAR,kg,44333,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,60,Ikan Tongkol,IKAN SEGAR,kg,32333,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,62,Ikan Cakalang,IKAN SEGAR,kg,35000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,80000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,74000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,65000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,32000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,53000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,85000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,105000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,81,Paku Ukuran 10Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,76,Paku Ukuran 2 Cm,PAKU,kg,22000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,77,Paku Ukuran 3Cm,PAKU,kg,22000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,78,Paku Ukuran 4Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,79,Paku Ukuran 5Cm,PAKU,kg,22000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,80,Paku Ukuran 7Cm,PAKU,kg,22000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,22000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,84,Pupuk KCL Non Subsidi,PUPUK,kg,16000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,85,Pupuk NPK Non Subsidi,PUPUK,kg,22000,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,10800,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,87,Pupuk Urea Non Subsidi,PUPUK,kg,10750,2026-11-26 15:39:12
+2026-10-13,magetankab,Kabupaten Magetan,88,Pupuk ZA Non Subsidi,PUPUK,kg,6700,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,2,Beras Premium,BERAS,kg,15180,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,4,Beras Medium,BERAS,kg,13200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,7,Gula Kristal Putih,GULA,kg,17200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,10,Minyak Goreng Curah,MINYAK GORENG,kg,21800,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,23200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,16700,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15880,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,12,Daging Sapi Paha Belakang,DAGING,kg,131500,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,13,Daging Ayam Ras,DAGING,kg,36000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,14,Daging Ayam Kampung,DAGING,ekor,73600,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,16,Telur Ayam Ras,TELUR AYAM,kg,24400,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,17,Telur Ayam Kampung,TELUR AYAM,kg,40000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12400,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,42200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,42600,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7900,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,27,Bata,GARAM BERYODIUM,buah,1500,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,28,Halus,GARAM BERYODIUM,kg,9200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,12200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,32,Kedelai Impor,KACANG KEDELAI,kg,12800,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,33,Kedelai Lokal,KACANG KEDELAI,kg,14400,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3500,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,37,Cabe Merah Keriting,CABE,kg,47400,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,38,Cabe Merah Besar,CABE,kg,42000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,50,Cabe Rawit Merah,CABE,kg,62600,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,39,Bawang Merah,BAWANG,kg,26200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,49,Bawang Putih Sinco/Honan,BAWANG,kg,28000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,40,Ikan Asin Teri,IKAN ASIN TERI,kg,79000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,41,KACANG HIJAU,KACANG HIJAU,kg,26400,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,42,KACANG TANAH,KACANG TANAH,kg,39600,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,43,KETELA POHON,KETELA POHON,kg,4700,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,44,KOL/KUBIS,SAYUR MAYUR,kg,7100,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,45,KENTANG,SAYUR MAYUR,kg,14600,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,46,Tomat Merah,SAYUR MAYUR,kg,7600,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,47,WORTEL,SAYUR MAYUR,kg,11400,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,48,BUNCIS,SAYUR MAYUR,kg,13800,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,54,Semen Gresik,SEMEN,40 kg,57000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,55,Semen Tiga Roda,SEMEN,40 kg,51600,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,89,Semen Padang,SEMEN,40 kg,46400,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,90,Semen Tonasa,SEMEN,40 kg,50200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,91,Semen Bosowa,SEMEN,40 kg,44900,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,93,Semen Dynamix,SEMEN,40 kg,50000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,58,Ikan Bandeng,IKAN SEGAR,kg,36800,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,59,Ikan Kembung,IKAN SEGAR,kg,38000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,61,Ikan Tuna,IKAN SEGAR,kg,41400,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,60,Ikan Tongkol,IKAN SEGAR,kg,39000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,62,Ikan Cakalang,IKAN SEGAR,kg,38000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,111600,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,107400,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,80600,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,35000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,48300,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,77360,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,98800,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,81,Paku Ukuran 10Cm,PAKU,kg,20400,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,76,Paku Ukuran 2 Cm,PAKU,kg,23800,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,77,Paku Ukuran 3Cm,PAKU,kg,23000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,78,Paku Ukuran 4Cm,PAKU,kg,21000,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,79,Paku Ukuran 5Cm,PAKU,kg,21200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,80,Paku Ukuran 7Cm,PAKU,kg,19800,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,20200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,84,Pupuk KCL Non Subsidi,PUPUK,kg,11200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,85,Pupuk NPK Non Subsidi,PUPUK,kg,17600,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,11200,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,87,Pupuk Urea Non Subsidi,PUPUK,kg,10300,2026-11-26 15:39:12
+2026-10-13,malangkab,Kabupaten Malang,88,Pupuk ZA Non Subsidi,PUPUK,kg,8000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,2,Beras Premium,BERAS,kg,14612,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,4,Beras Medium,BERAS,kg,13612,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,7,Gula Kristal Putih,GULA,kg,17125,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,10,Minyak Goreng Curah,MINYAK GORENG,kg,19500,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,21957,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,15800,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,16175,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,12,Daging Sapi Paha Belakang,DAGING,kg,117500,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,13,Daging Ayam Ras,DAGING,kg,35625,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,14,Daging Ayam Kampung,DAGING,ekor,68707,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,16,Telur Ayam Ras,TELUR AYAM,kg,25665,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,17,Telur Ayam Kampung,TELUR AYAM,kg,43775,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,13733,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,13782,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,8116,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,27,Bata,GARAM BERYODIUM,buah,3043,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,28,Halus,GARAM BERYODIUM,kg,8625,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,12790,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,32,Kedelai Impor,KACANG KEDELAI,kg,16500,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,33,Kedelai Lokal,KACANG KEDELAI,kg,17116,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3015,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,37,Cabe Merah Keriting,CABE,kg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,38,Cabe Merah Besar,CABE,kg,39000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,50,Cabe Rawit Merah,CABE,kg,66082,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,39,Bawang Merah,BAWANG,kg,26500,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,49,Bawang Putih Sinco/Honan,BAWANG,kg,27250,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,40,Ikan Asin Teri,IKAN ASIN TERI,kg,73750,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,41,KACANG HIJAU,KACANG HIJAU,kg,24207,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,42,KACANG TANAH,KACANG TANAH,kg,27625,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,43,KETELA POHON,KETELA POHON,kg,6187,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,44,KOL/KUBIS,SAYUR MAYUR,kg,8500,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,45,KENTANG,SAYUR MAYUR,kg,14125,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,46,Tomat Merah,SAYUR MAYUR,kg,8332,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,47,WORTEL,SAYUR MAYUR,kg,12000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,48,BUNCIS,SAYUR MAYUR,kg,15000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,54,Semen Gresik,SEMEN,40 kg,53000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,55,Semen Tiga Roda,SEMEN,40 kg,49000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,89,Semen Padang,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,58,Ikan Bandeng,IKAN SEGAR,kg,38707,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,59,Ikan Kembung,IKAN SEGAR,kg,36457,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,61,Ikan Tuna,IKAN SEGAR,kg,43665,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,60,Ikan Tongkol,IKAN SEGAR,kg,34665,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,62,Ikan Cakalang,IKAN SEGAR,kg,37957,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,35000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,46000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,68000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,97000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,81,Paku Ukuran 10Cm,PAKU,kg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,76,Paku Ukuran 2 Cm,PAKU,kg,23000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,77,Paku Ukuran 3Cm,PAKU,kg,23000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,78,Paku Ukuran 4Cm,PAKU,kg,21000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,79,Paku Ukuran 5Cm,PAKU,kg,21000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,80,Paku Ukuran 7Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,20000,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,84,Pupuk KCL Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,85,Pupuk NPK Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,87,Pupuk Urea Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,mojokertokab,Kabupaten Mojokerto,88,Pupuk ZA Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,2,Beras Premium,BERAS,kg,15333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,4,Beras Medium,BERAS,kg,12433,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,7,Gula Kristal Putih,GULA,kg,17333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,10,Minyak Goreng Curah,MINYAK GORENG,kg,21666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,20666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,19000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,12,Daging Sapi Paha Belakang,DAGING,kg,135000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,13,Daging Ayam Ras,DAGING,kg,37666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,14,Daging Ayam Kampung,DAGING,ekor,64333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,16,Telur Ayam Ras,TELUR AYAM,kg,23000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,17,Telur Ayam Kampung,TELUR AYAM,kg,43333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,13000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,8000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,27,Bata,GARAM BERYODIUM,buah,366,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,28,Halus,GARAM BERYODIUM,kg,8666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,11000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,32,Kedelai Impor,KACANG KEDELAI,kg,12833,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,33,Kedelai Lokal,KACANG KEDELAI,kg,18000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,37,Cabe Merah Keriting,CABE,kg,56000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,38,Cabe Merah Besar,CABE,kg,47666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,50,Cabe Rawit Merah,CABE,kg,63333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,39,Bawang Merah,BAWANG,kg,23333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,49,Bawang Putih Sinco/Honan,BAWANG,kg,27333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,40,Ikan Asin Teri,IKAN ASIN TERI,kg,76666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,41,KACANG HIJAU,KACANG HIJAU,kg,27666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,42,KACANG TANAH,KACANG TANAH,kg,43000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,43,KETELA POHON,KETELA POHON,kg,3500,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,44,KOL/KUBIS,SAYUR MAYUR,kg,9000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,45,KENTANG,SAYUR MAYUR,kg,15333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,46,Tomat Merah,SAYUR MAYUR,kg,7333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,47,WORTEL,SAYUR MAYUR,kg,14333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,48,BUNCIS,SAYUR MAYUR,kg,13000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,54,Semen Gresik,SEMEN,40 kg,60666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,55,Semen Tiga Roda,SEMEN,40 kg,55000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,89,Semen Padang,SEMEN,40 kg,49000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,58,Ikan Bandeng,IKAN SEGAR,kg,32666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,59,Ikan Kembung,IKAN SEGAR,kg,33333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,61,Ikan Tuna,IKAN SEGAR,kg,40000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,60,Ikan Tongkol,IKAN SEGAR,kg,43333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,62,Ikan Cakalang,IKAN SEGAR,kg,33333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,103666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,103333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,69333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,29333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,46333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,73333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,104333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,81,Paku Ukuran 10Cm,PAKU,kg,18333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,76,Paku Ukuran 2 Cm,PAKU,kg,19333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,77,Paku Ukuran 3Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,78,Paku Ukuran 4Cm,PAKU,kg,19333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,79,Paku Ukuran 5Cm,PAKU,kg,18666,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,80,Paku Ukuran 7Cm,PAKU,kg,18833,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,19333,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,84,Pupuk KCL Non Subsidi,PUPUK,kg,12500,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,85,Pupuk NPK Non Subsidi,PUPUK,kg,8500,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,5866,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,87,Pupuk Urea Non Subsidi,PUPUK,kg,6633,2026-11-26 15:39:12
+2026-10-13,nganjukkab,Kabupaten Nganjuk,88,Pupuk ZA Non Subsidi,PUPUK,kg,5666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,2,Beras Premium,BERAS,kg,14900,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,4,Beras Medium,BERAS,kg,12666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,7,Gula Kristal Putih,GULA,kg,17666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,10,Minyak Goreng Curah,MINYAK GORENG,kg,21000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,22000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,20666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,12,Daging Sapi Paha Belakang,DAGING,kg,130000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,13,Daging Ayam Ras,DAGING,kg,39333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,14,Daging Ayam Kampung,DAGING,ekor,50000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,16,Telur Ayam Ras,TELUR AYAM,kg,24333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,17,Telur Ayam Kampung,TELUR AYAM,kg,46666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,13000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12500,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,43000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,41000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,27,Bata,GARAM BERYODIUM,buah,2166,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,28,Halus,GARAM BERYODIUM,kg,9666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,12000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,32,Kedelai Impor,KACANG KEDELAI,kg,12000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,33,Kedelai Lokal,KACANG KEDELAI,kg,12666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3400,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,37,Cabe Merah Keriting,CABE,kg,63333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,38,Cabe Merah Besar,CABE,kg,45000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,50,Cabe Rawit Merah,CABE,kg,70000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,39,Bawang Merah,BAWANG,kg,29333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,49,Bawang Putih Sinco/Honan,BAWANG,kg,28000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,40,Ikan Asin Teri,IKAN ASIN TERI,kg,88333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,41,KACANG HIJAU,KACANG HIJAU,kg,28666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,42,KACANG TANAH,KACANG TANAH,kg,43333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,43,KETELA POHON,KETELA POHON,kg,5666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,44,KOL/KUBIS,SAYUR MAYUR,kg,9666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,45,KENTANG,SAYUR MAYUR,kg,16000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,46,Tomat Merah,SAYUR MAYUR,kg,8333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,47,WORTEL,SAYUR MAYUR,kg,16000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,48,BUNCIS,SAYUR MAYUR,kg,14000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,54,Semen Gresik,SEMEN,40 kg,58666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,55,Semen Tiga Roda,SEMEN,40 kg,58000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,89,Semen Padang,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,58,Ikan Bandeng,IKAN SEGAR,kg,38333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,59,Ikan Kembung,IKAN SEGAR,kg,45000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,61,Ikan Tuna,IKAN SEGAR,kg,49333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,60,Ikan Tongkol,IKAN SEGAR,kg,42333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,62,Ikan Cakalang,IKAN SEGAR,kg,42333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,98666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,160000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,72666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,31666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,48333,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,76000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,100000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,81,Paku Ukuran 10Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,76,Paku Ukuran 2 Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,77,Paku Ukuran 3Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,78,Paku Ukuran 4Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,79,Paku Ukuran 5Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,80,Paku Ukuran 7Cm,PAKU,kg,20000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,22666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,84,Pupuk KCL Non Subsidi,PUPUK,kg,10000,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,85,Pupuk NPK Non Subsidi,PUPUK,kg,18666,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,87,Pupuk Urea Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,ngawikab,Kabupaten Ngawi,88,Pupuk ZA Non Subsidi,PUPUK,kg,,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,2,Beras Premium,BERAS,kg,14833,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,4,Beras Medium,BERAS,kg,13416,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,7,Gula Kristal Putih,GULA,kg,18000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,10,Minyak Goreng Curah,MINYAK GORENG,kg,19500,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,22333,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,19833,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,12,Daging Sapi Paha Belakang,DAGING,kg,150000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,13,Daging Ayam Ras,DAGING,kg,37666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,14,Daging Ayam Kampung,DAGING,ekor,64666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,16,Telur Ayam Ras,TELUR AYAM,kg,23666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,17,Telur Ayam Kampung,TELUR AYAM,kg,62666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12333,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,13166,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,43250,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,45750,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,7583,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,27,Bata,GARAM BERYODIUM,buah,7000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,28,Halus,GARAM BERYODIUM,kg,11666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,12166,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,32,Kedelai Impor,KACANG KEDELAI,kg,12500,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,33,Kedelai Lokal,KACANG KEDELAI,kg,16833,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3433,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,37,Cabe Merah Keriting,CABE,kg,56666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,38,Cabe Merah Besar,CABE,kg,49000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,50,Cabe Rawit Merah,CABE,kg,71666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,39,Bawang Merah,BAWANG,kg,28666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,49,Bawang Putih Sinco/Honan,BAWANG,kg,28666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,40,Ikan Asin Teri,IKAN ASIN TERI,kg,87333,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,41,KACANG HIJAU,KACANG HIJAU,kg,26666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,42,KACANG TANAH,KACANG TANAH,kg,34000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,43,KETELA POHON,KETELA POHON,kg,6500,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,44,KOL/KUBIS,SAYUR MAYUR,kg,9666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,45,KENTANG,SAYUR MAYUR,kg,15666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,46,Tomat Merah,SAYUR MAYUR,kg,8000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,47,WORTEL,SAYUR MAYUR,kg,13333,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,48,BUNCIS,SAYUR MAYUR,kg,12666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,54,Semen Gresik,SEMEN,40 kg,54000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,55,Semen Tiga Roda,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,89,Semen Padang,SEMEN,40 kg,47250,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,58,Ikan Bandeng,IKAN SEGAR,kg,23000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,59,Ikan Kembung,IKAN SEGAR,kg,31000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,61,Ikan Tuna,IKAN SEGAR,kg,28000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,60,Ikan Tongkol,IKAN SEGAR,kg,26000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,62,Ikan Cakalang,IKAN SEGAR,kg,24000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,75666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,42666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,59666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,91000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,116000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,81,Paku Ukuran 10Cm,PAKU,kg,22000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,76,Paku Ukuran 2 Cm,PAKU,kg,22000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,77,Paku Ukuran 3Cm,PAKU,kg,21666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,78,Paku Ukuran 4Cm,PAKU,kg,19333,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,79,Paku Ukuran 5Cm,PAKU,kg,16666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,80,Paku Ukuran 7Cm,PAKU,kg,17000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,18333,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,84,Pupuk KCL Non Subsidi,PUPUK,kg,16666,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,85,Pupuk NPK Non Subsidi,PUPUK,kg,12333,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,8000,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,87,Pupuk Urea Non Subsidi,PUPUK,kg,13333,2026-11-26 15:39:12
+2026-10-13,pacitankab,Kabupaten Pacitan,88,Pupuk ZA Non Subsidi,PUPUK,kg,9200,2026-11-26 15:39:12
