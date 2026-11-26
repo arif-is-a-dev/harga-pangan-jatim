@@ -1,0 +1,68 @@
+tanggal,kode_wilayah,nama_wilayah,id_komoditas,nama_komoditas,kategori,satuan,harga_rp,waktu_scrape
+2026-11-25,surabayakota,Kota Surabaya,2,Beras Premium,BERAS,kg,16166,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,4,Beras Medium,BERAS,kg,12645,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,7,Gula Kristal Putih,GULA,kg,17750,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,10,Minyak Goreng Curah,MINYAK GORENG,kg,21166,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,92,Minyak Goreng Kemasan Premium,MINYAK GORENG,1 liter,21366,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,95,Minyak Goreng Kemasan Sederhana,MINYAK GORENG,1 liter,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,96,Minyak Goreng MINYAKITA,MINYAK GORENG,1 liter,15700,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,12,Daging Sapi Paha Belakang,DAGING,kg,128333,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,13,Daging Ayam Ras,DAGING,kg,36000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,14,Daging Ayam Kampung,DAGING,ekor,67500,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,16,Telur Ayam Ras,TELUR AYAM,kg,24500,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,17,Telur Ayam Kampung,TELUR AYAM,kg,46400,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,20,Susu Kental Manis Merk Bendera,SUSU,370 gr/kl,12750,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,21,Susu Kental Manis Merk Indomilk,SUSU,370 gr/kl,12750,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,23,Susu Bubuk Merk Bendera (Instant),SUSU,400 gr/dos,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,24,Susu Bubuk Merk Indomilk (Instant),SUSU,400 gr/dos,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,25,Jagung Pipilan Kering,JAGUNG PIPILAN KERING,kg,10800,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,27,Bata,GARAM BERYODIUM,buah,1562,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,28,Halus,GARAM BERYODIUM,kg,9333,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,30,Terigu Protein Sedang (Kemasan),TEPUNG TERIGU,kg,12583,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,32,Kedelai Impor,KACANG KEDELAI,kg,15000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,33,Kedelai Lokal,KACANG KEDELAI,kg,15000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,35,Indomie Rasa Kari Ayam,MIE INSTANT,bungkus,3216,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,37,Cabe Merah Keriting,CABE,kg,57166,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,38,Cabe Merah Besar,CABE,kg,31000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,50,Cabe Rawit Merah,CABE,kg,55166,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,39,Bawang Merah,BAWANG,kg,30666,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,49,Bawang Putih Sinco/Honan,BAWANG,kg,31000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,40,Ikan Asin Teri,IKAN ASIN TERI,kg,86000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,41,KACANG HIJAU,KACANG HIJAU,kg,29000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,42,KACANG TANAH,KACANG TANAH,kg,38750,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,43,KETELA POHON,KETELA POHON,kg,7333,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,44,KOL/KUBIS,SAYUR MAYUR,kg,14000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,45,KENTANG,SAYUR MAYUR,kg,16000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,46,Tomat Merah,SAYUR MAYUR,kg,11166,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,47,WORTEL,SAYUR MAYUR,kg,15333,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,48,BUNCIS,SAYUR MAYUR,kg,21000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,54,Semen Gresik,SEMEN,40 kg,62000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,55,Semen Tiga Roda,SEMEN,40 kg,59750,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,89,Semen Padang,SEMEN,40 kg,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,90,Semen Tonasa,SEMEN,40 kg,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,91,Semen Bosowa,SEMEN,40 kg,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,93,Semen Dynamix,SEMEN,40 kg,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,58,Ikan Bandeng,IKAN SEGAR,kg,42500,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,59,Ikan Kembung,IKAN SEGAR,kg,60000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,61,Ikan Tuna,IKAN SEGAR,kg,50000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,60,Ikan Tongkol,IKAN SEGAR,kg,45000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,62,Ikan Cakalang,IKAN SEGAR,kg,47500,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,67,KAYU BALOK MERANTI (4 X 10),KAYU BALOK MERANTI (4 X 10),btg,50000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,68,Papan Meranti (4m X 3cm X 20mm),PAPAN MERANTI (4M X 3CM X 20MM),lembar,90000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,69,TRIPLEK (6MM),TRIPLEK (6MM),lembar,80000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,71,Besi Beton 6 mm (12/9m),BESI BETON (SNI MURNI),btg,36000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,72,Besi Beton 8 mm (12/9m),BESI BETON (SNI MURNI),btg,53500,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,73,Besi Beton 10 mm (12/9m),BESI BETON (SNI MURNI),btg,81500,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,74,Besi Beton 12 mm (12/9m),BESI BETON (SNI MURNI),btg,113000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,81,Paku Ukuran 10Cm,PAKU,kg,20000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,76,Paku Ukuran 2 Cm,PAKU,kg,20500,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,77,Paku Ukuran 3Cm,PAKU,kg,20500,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,78,Paku Ukuran 4Cm,PAKU,kg,20000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,79,Paku Ukuran 5Cm,PAKU,kg,20000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,80,Paku Ukuran 7Cm,PAKU,kg,20000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,82,GAS ELPIGI 3 Kg,GAS ELPIGI 3 KG,kg,20000,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,84,Pupuk KCL Non Subsidi,PUPUK,kg,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,85,Pupuk NPK Non Subsidi,PUPUK,kg,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,86,Pupuk SP 35 Non Subsidi,PUPUK,kg,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,87,Pupuk Urea Non Subsidi,PUPUK,kg,,2026-11-26 13:10:40
+2026-11-25,surabayakota,Kota Surabaya,88,Pupuk ZA Non Subsidi,PUPUK,kg,,2026-11-26 13:10:40
