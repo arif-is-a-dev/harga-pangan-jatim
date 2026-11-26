@@ -69,6 +69,12 @@ def jalankan_untuk_satu_tanggal(tanggal_target, daftar_kode_wilayah):
         # Jeda supaya sopan ke server.
         time.sleep(config.JEDA_ANTAR_REQUEST_DETIK)
 
+    # Kalau tidak ada data sama sekali, jangan buat CSV kosong.
+    if len(semua_baris_tanggal_ini) == 0:
+        print("Tidak ada data yang berhasil diambil. CSV dan database tidak diubah.")
+        print("Wilayah gagal:", jumlah_wilayah_gagal)
+        return jumlah_wilayah_gagal
+
     # LOAD: simpan ke CSV dan database
     semua_baris_tanggal_ini = tambahkan_waktu_scrape(semua_baris_tanggal_ini)
     lokasi_csv = simpan_ke_csv(semua_baris_tanggal_ini, tanggal_teks)
